@@ -22,3 +22,6 @@ for filename in os.listdir(image_folder):
 
 # convert images to png
 # save to the new folder.
+
+
+#use the command in the terminal: python3 JPGtoPNGconverter.py Pokedex/ new/
